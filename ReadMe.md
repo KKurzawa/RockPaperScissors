@@ -4,9 +4,9 @@
 ## Description
 A very simple rock, paper, scissors game to excercise very basic javascript.  This game uses prompts and alerts as opposed to interacting with the dom.
 
-[Github Repository]
+[Github Repository](https://github.com/KKurzawa/RockPaperScissors)
 
-[Deployed Site]
+[Deployed Site](https://rock-paper-scissors-bice-two.vercel.app/)
 
 ## Credits
 This app was built by using the following tutorial by David Gray: [Tutorial Link](https://www.youtube.com/watch?v=EfAl9bwzVZk&t=2985s).
